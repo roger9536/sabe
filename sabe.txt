@@ -1,0 +1,493 @@
+#EXTM3U
+#EXTINF:-1,|FR| NETFLIX FILM 1 HD 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1638
+#EXTINF:-1,|FR| NETFLIX FILM 2 HD 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1639
+#EXTINF:-1,|FR| NETFLIX FILM 3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1640
+#EXTINF:-1,|FR| NETFLIX FILM 4 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1641
+#EXTINF:-1,|FR| NETFLIX FILM 5 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1642
+#EXTINF:-1,|FR| NETFLIX FILM 6 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1643
+#EXTINF:-1,|FR| NETFLIX FILM 7 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1644
+#EXTINF:-1,|FR| NETFLIX FILM 8 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1645
+#EXTINF:-1,|FR| Magico CINEMA HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1646
+#EXTINF:-1,|FR| Magico CINEMA ACTION HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1647
+#EXTINF:-1,|FR| Magico CINEMA COMEDY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1649
+#EXTINF:-1,|FR| Magico CINEMA DRAME 1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1650
+#EXTINF:-1,|FR| Netfllix CINEMA GOLD HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/1651
+#EXTINF:-1,|FR| TF1 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/58
+#EXTINF:-1,|FR| FRANCE 2 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/59
+#EXTINF:-1,|FR| FRANCE 3 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/60
+#EXTINF:-1,|FR| ARTE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/61
+#EXTINF:-1,|FR| M6 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/62
+#EXTINF:-1,|FR| FRANCE 5 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/63
+#EXTINF:-1,|FR| C8 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/64
+#EXTINF:-1,|FR| W9 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/65
+#EXTINF:-1,|FR| TMC FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/66
+#EXTINF:-1,|FR| TFX FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/67
+#EXTINF:-1,|FR| NRJ 12 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/68
+#EXTINF:-1,|FR| FRANCE 4 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/69
+#EXTINF:-1,|FR| BFM TV FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/70
+#EXTINF:-1,|FR| CNEWS FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/71
+#EXTINF:-1,|FR| CSTAR FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/72
+#EXTINF:-1,|FR| GULLI FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/73
+#EXTINF:-1,|FR| L'EQUIPE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/74
+#EXTINF:-1,|FR| TF1 SERIES/FILMS FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/75
+#EXTINF:-1,|FR| 6TER FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/76
+#EXTINF:-1,|FR| RMC STORY FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/77
+#EXTINF:-1,|FR| RMC DECOUVERTE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/78
+#EXTINF:-1,|FR| CHERIE 25 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/79
+#EXTINF:-1,|FR| TF1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/215
+#EXTINF:-1,|FR| France 2 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/216
+#EXTINF:-1,|FR| France 3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/217
+#EXTINF:-1,|FR| CANAL+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/218
+#EXTINF:-1,|FR| Arte HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/219
+#EXTINF:-1,|FR| M6
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/220
+#EXTINF:-1,|FR| France 5 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/221
+#EXTINF:-1,|FR| C8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/222
+#EXTINF:-1,|FR| W9
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/223
+#EXTINF:-1,|FR| TMC
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/224
+#EXTINF:-1,|FR| TFX
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/225
+#EXTINF:-1,|FR| NRJ 12 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/226
+#EXTINF:-1,|FR| France 4 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/227
+#EXTINF:-1,|FR| BFM TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/228
+#EXTINF:-1,|FR| CNEWS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/229
+#EXTINF:-1,|FR| CSTAR
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/230
+#EXTINF:-1,|FR| Gulli
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/231
+#EXTINF:-1,|FR| France O
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/232
+#EXTINF:-1,|FR| l'Equipe 21 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/233
+#EXTINF:-1,|FR| TF1 SERIES FILMS HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/234
+#EXTINF:-1,|FR| 6ter HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/235
+#EXTINF:-1,|FR| RMC Story HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/236
+#EXTINF:-1,|FR| RMC DECOUVERTE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/237
+#EXTINF:-1,|FR| CHERIE 25 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/238
+#EXTINF:-1,|FR| RMC SPORT 1 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93
+#EXTINF:-1,|FR| RMC SPORT 2 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/94
+#EXTINF:-1,|FR| RMC SPORT 3 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/95
+#EXTINF:-1,|FR| RMC SPORT 4 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/96
+#EXTINF:-1,|FR| RMC Sport 1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/97
+#EXTINF:-1,|FR| RMC Sport 2 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/98
+#EXTINF:-1,|FR| RMC Sport 3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/99
+#EXTINF:-1,|FR| RMC Sport 4 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/100
+#EXTINF:-1,|FR| RMC Sport 1 Access HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/101
+#EXTINF:-1,|FR| RMC Sport 2 Access HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/102
+#EXTINF:-1,|FR| RMC Sport 3 Access HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/103
+#EXTINF:-1,|FR| RMC Sport Live 5 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/104
+#EXTINF:-1,|FR| RMC Sport Live 6 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/105
+#EXTINF:-1,|FR| RMC Sport Live 7 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/106
+#EXTINF:-1,|FR| RMC Sport Live 8 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/107
+#EXTINF:-1,|FR| RMC Sport Live 9 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/108
+#EXTINF:-1,|FR| RMC Sport Live 10 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/109
+#EXTINF:-1,|FR| RMC Sport Live 11 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/110
+#EXTINF:-1,|FR| RMC Sport Live 12 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/111
+#EXTINF:-1,|FR| RMC Sport Live 13 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/112
+#EXTINF:-1,|FR| RMC Sport Live 14 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/113
+#EXTINF:-1,|FR| RMC Sport Live 15 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/114
+#EXTINF:-1,|FR| RMC Sport Live 16 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/115
+#EXTINF:-1,|FR| RMC SPORT NEWS FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/116
+#EXTINF:-1,|FR| RMC Sport News HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/117
+#EXTINF:-1,|FR| BEIN SPORTS 1 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/170
+#EXTINF:-1,|FR| BEIN SPORTS 2 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/171
+#EXTINF:-1,|FR| BEIN SPORTS 3 FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/172
+#EXTINF:-1,|FR| BeIN Sports 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/173
+#EXTINF:-1,|FR| BeIN Sports 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/174
+#EXTINF:-1,|FR| BeIN Sports 3
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/175
+#EXTINF:-1,|FR| BeIN Sports MAX 4
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/176
+#EXTINF:-1,|FR| BeIN Sports MAX 5
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/177
+#EXTINF:-1,|FR| BeIN Sports MAX 6
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/178
+#EXTINF:-1,|FR| BeIN Sports MAX 7
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/179
+#EXTINF:-1,|FR| BeIN Sports MAX 8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/180
+#EXTINF:-1,|FR| BeIN Sports MAX 9
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/181
+#EXTINF:-1,|FR| BeIN Sports MAX 10
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/182
+#EXTINF:-1,===== CANALSAT FHD =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/118
+#EXTINF:-1,|FR| CANAL+ CINEMA FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/119
+#EXTINF:-1,|FR| CANAL+ DECALE FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/120
+#EXTINF:-1,|FR| CANAL+ FAMILY FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/121
+#EXTINF:-1,|FR| CANAL+ SERIES FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/122
+#EXTINF:-1,|FR| CINE+ PREMIER FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/123
+#EXTINF:-1,|FR| CINE+ FRISSON FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/124
+#EXTINF:-1,|FR| CINE+ FAMIZ FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/125
+#EXTINF:-1,|FR| CINE+ CLASSIC FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/126
+#EXTINF:-1,|FR6 CINE+ CLUB FHD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/127
+#EXTINF:-1,===== CANALSAT =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/128
+#EXTINF:-1,|FR| CANAL+ CINEMA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/129
+#EXTINF:-1,|FR| CANAL+ DECALE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/130
+#EXTINF:-1,|FR| CANAL+ FAMILY
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/131
+#EXTINF:-1,|FR| CANAL+ SERIES
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/132
+#EXTINF:-1,|FR| CANAL+ SPORT
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/133
+#EXTINF:-1,|FR| CINE+ PREMIER
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/134
+#EXTINF:-1,|FR| CINE+ FRISSON
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/135
+#EXTINF:-1,|FR| CINE+ FAMIZ
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/136
+#EXTINF:-1,|FR| CINE+ EMOTION
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/137
+#EXTINF:-1,|FR| CINE+ CLASSIC
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/138
+#EXTINF:-1,|FR| CINE+ CLUB
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/139
+#EXTINF:-1,|FR| OCS MAX
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/140
+#EXTINF:-1,|FR| OCS CITY
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/141
+#EXTINF:-1,|FR| OCS GEANTS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/142
+#EXTINF:-1,|FR| OCS CHOC
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/143
+#EXTINF:-1,[CA-FR] SUPER ECRAN 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/144
+#EXTINF:-1,[CA-FR] SUPER ECRAN 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/145
+#EXTINF:-1,[CA-FR] SUPER ECRAN 3
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/146
+#EXTINF:-1,[CA-FR] SUPER ECRAN 4
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/147
+#EXTINF:-1,|FR| ALTICE STUDIO HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/148
+#EXTINF:-1,|FR| WARNER TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/149
+#EXTINF:-1,|FR| TCM CINEMA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/150
+#EXTINF:-1,|FR| Paramount Channel HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/151
+#EXTINF:-1,|FR| Paramount Channel Decale HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/152
+#EXTINF:-1,|FR| ACTION HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/153
+#EXTINF:-1,|FR| SERIE CLUB HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/154
+#EXTINF:-1,|FR| SYFY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/155
+#EXTINF:-1,|FR| 13EME RUE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/156
+#EXTINF:-1,|FR| AB1 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/157
+#EXTINF:-1,|FR| AB3 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/158
+#EXTINF:-1,|FR| PARIS PREMIERE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/159
+#EXTINF:-1,|FR| RTL 9 HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/160
+#EXTINF:-1,|FR| BET HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/161
+#EXTINF:-1,|FR| COMEDIE+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/162
+#EXTINF:-1,|FR| MY COMEDY
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/163
+#EXTINF:-1,|FR| TV Breizh
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/165
+#EXTINF:-1,|FR| TEVA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/166
+#EXTINF:-1,|FR| E! ENTERTAINMENT HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/167
+#EXTINF:-1,|FR| MTV HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/168
+#EXTINF:-1,|FR| MCM
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/169
+#EXTINF:-1,|FR| PIWI+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/184
+#EXTINF:-1,|FR| Tiji
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/185
+#EXTINF:-1,|FR| DISNEY CHANNEL
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/186
+#EXTINF:-1,|FR| DISNEY CINEMA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/187
+#EXTINF:-1,|FR| DISNEY JUNIOR
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/188
+#EXTINF:-1,|FR| DISNEY XD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/189
+#EXTINF:-1,|FR| NICKELODEON
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/190
+#EXTINF:-1,|FR| NICKELODEON JUNIOR
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/191
+#EXTINF:-1,|FR| NICKELODEON TEEN
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/192
+#EXTINF:-1,|FR| Boomerang
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/193
+#EXTINF:-1,|FR| BOING
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/194
+#EXTINF:-1,|FR| TELETOON+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/195
+#EXTINF:-1,|FR| Canal J
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/196
+#EXTINF:-1,|FR| CARTOON NETWORK
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/197
+#EXTINF:-1,|FR| Toonami
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/198
+#EXTINF:-1,|FR| MANGAS HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/199
+#EXTINF:-1,|FR| J-ONE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/200
+#EXTINF:-1,|FR| Game One
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/201
+#EXTINF:-1,|FR| INFOSPORT+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/205
+#EXTINF:-1,|FR| FOOT+
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/206
+#EXTINF:-1,|FR| EUROSPORT 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/208
+#EXTINF:-1,|FR| EUROSPORT 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/209
+#EXTINF:-1,|FR| Auto Moto HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/211
+#EXTINF:-1,|FR| Equidia HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/212
+#EXTINF:-1,|FR| GOLF  HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/213
+#EXTINF:-1,===== DECOUVERTES =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/240
+#EXTINF:-1,|FR| CRIME DISTRICT HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/243
+#EXTINF:-1,|FR| DISCOVERY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/244
+#EXTINF:-1,|FR| DISCOVERY SCI HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/245
+#EXTINF:-1,|FR| DISCOVERY INVESTIGATION HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/246
+#EXTINF:-1,|FR| DISCOVERY FAMILY HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/247
+#EXTINF:-1,|FR| National Geographic HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/249
+#EXTINF:-1,|FR| Nat geo Wild
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/250
+#EXTINF:-1,|FR| PLANETE +
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/251
+#EXTINF:-1,|FR| PLANETE+ CI HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/252
+#EXTINF:-1,|FR| PLANETE A&E
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/253
+#EXTINF:-1,|FR| Histoire
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/254
+#EXTINF:-1,|FR| TOUTE L'HISTOIRE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/255
+#EXTINF:-1,|FR| Voyage HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/256
+#EXTINF:-1,|FR| SEASONS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/257
+#EXTINF:-1,|FR| ANIMAUX HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/258
+#EXTINF:-1,|FR| CHASSE ET PECHE HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/259
+#EXTINF:-1,|FR| Ushuaia TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/260
+#EXTINF:-1,|FR| SCIENCES ET VIE TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/261
+#EXTINF:-1,|FR| TREK HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/264
+#EXTINF:-1,|FR| MTV HITS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/265
+#EXTINF:-1,|FR| MTV DANCE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/266
+#EXTINF:-1,|FR| NRJ HITS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/267
+#EXTINF:-1,|FR| M6 Music
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/268
+#EXTINF:-1,|FR| TRACE URBAN
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/269
+#EXTINF:-1,|FR| TRACE AFRICA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/270
+#EXTINF:-1,|FR| TRACE TOCA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/272
+#EXTINF:-1,|FR| TRACE MZIKI
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/273
+#EXTINF:-1,|FR| TRACE NAIJA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/274
+#EXTINF:-1,|FR| TRACE TOCA
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/275
+#EXTINF:-1,|FR| Bblack! Classik
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/276
+#EXTINF:-1,|FR| Bblack! Africa
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/277
+#EXTINF:-1,|FR| Bblack! Caribbean
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/278
+#EXTINF:-1,|FR| Mezzo
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/279
+#EXTINF:-1,|FR| Mezzo Live HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/280
+#EXTINF:-1,|FR| RFM TV
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/282
+#EXTINF:-1,===== GENERALISTE =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/283
+#EXTINF:-1,|FR| TV3V
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/289
+#EXTINF:-1,|FR| TV5 STYLE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/290
+#EXTINF:-1,|FR| TV8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/292
+#EXTINF:-1,===== CHAINES INFOS =====
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/295
+#EXTINF:-1,|FR| BFM Business
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/296
+#EXTINF:-1,|FR| BFM PARIS
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/297
+#EXTINF:-1,TV5 MONDE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/298
+#EXTINF:-1,|FR| EURONEWS HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/299
+#EXTINF:-1,|FR| FRANCE 24
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/300
+#EXTINF:-1,|FR| France info
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/301
+#EXTINF:-1,|FR| LCI HD
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/302
+#EXTINF:-1,|FR| LCP
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/303
+#EXTINF:-1,|FR| RT FRANCE
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/304
+#EXTINF:-1,FR: La chaine meteo 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/83669
+#EXTINF:-1,FR:Canal +360
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/124679
+#EXTINF:-1,FR: Regby + HD 
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/80286
+#EXTINF:-1,A LA CARTE 1
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93910
+#EXTINF:-1,A LA CARTE 2
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93911
+#EXTINF:-1,A LA CARTE 3
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93912
+#EXTINF:-1,A LA CARTE 4
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93913
+#EXTINF:-1,A LA CARTE 5
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93914
+#EXTINF:-1,A LA CARTE 6
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93915
+#EXTINF:-1,A LA CARTE 7
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93916
+#EXTINF:-1,A LA CARTE 8
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93917
+#EXTINF:-1,A LA CARTE 9
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93918
+#EXTINF:-1,A LA CARTE 10
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93919
+#EXTINF:-1,A LA CARTE 11
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93920
+#EXTINF:-1,A LA CARTE 12
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93921
+#EXTINF:-1,A LA CARTE 13
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93922
+#EXTINF:-1,A LA CARTE 14
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93923
+#EXTINF:-1,A LA CARTE 15
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93924
+#EXTINF:-1,A LA CARTE 16
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93925
+#EXTINF:-1,A LA CARTE 17
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93926
+#EXTINF:-1,A LA CARTE 18
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93927
+#EXTINF:-1,A LA CARTE 19
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93928
+#EXTINF:-1,A LA CARTE 20
+http://magicoiptv.org:8080/saidfrANCE/YmSK3H7Nz889/93929
